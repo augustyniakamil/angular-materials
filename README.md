@@ -13,3 +13,6 @@ Helpful links where you can find interesting articles or videos about Angular.
 ### Dependency Injection
 * [[PL] TYPE OF WEB - Wzorce Projektowe: Dependency Injection [blog post]](https://typeofweb.com/wzorce-projektowe-dependency-injection/)
 * [[EN] Alain Chautard - Dependency injection with Angular 9 [blog post]](https://blog.angulartraining.com/dependency-injection-with-angular-9-63ce524496d9)
+
+### zone.js
+* [[PL] angular.love - Angular i zone.js](https://www.angular.love/2018/03/04/angular-i-zone-js/)
